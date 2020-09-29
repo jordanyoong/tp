@@ -48,7 +48,7 @@ You can reach us at the email `jordany@comp.nus.edu.sg`
 [[portfolio](https://limziyang.com)]
 
 * Role: Developer
-* Responsibilities: 
+* Responsibilities: Team Carry
 
 ### Jordan Yoong
 
