@@ -28,6 +28,7 @@ Given below are my contributions to the project.
   * What it does: allows the user to add `Expense` or `Revenue` in Common Cents with a compulsory description,
   amount and optional tags.
   <div style="page-break-after: always;"></div>
+  
   * Justification: This is a core feature because it allows the app to track `Expense` and `Revenue` in the
   first place and fulfills the fundamental need for the app for budgeting.
   * Highlights: The implementation of this feature revealed an early problem of a weak UI layer between 
